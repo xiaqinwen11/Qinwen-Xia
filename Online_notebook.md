@@ -1,4 +1,4 @@
-# Title: ECB hormonal project
+# Title: paper notes
 
 ### Author:   Qinwen   
 ### Affiliation     
@@ -10,20 +10,22 @@
 
 
 # Table of contents (for 200 entries)    
-* [Page 1:   2016-06-08](#id-section1). Title of entry
-* [Page 2:   2016-6-16](#id-section2). Title 3
-* [Page 3:  ](#id-section3).
-* [Page 4:  ](#id-section4).
-* [Page 5:  ](#id-section5).
-* [Page 6:  ](#id-section6).
-* [Page 7:  ](#id-section7).
-* [Page 8:  ](#id-section8).
-* [Page 9:  ](#id-section9).
-* [Page 10:  ](#id-section10).
-* [Page 11:  ](#id-section11).
-* [Page 12:  ](#id-section12).
-* [Page 13:  ](#id-section13).
-* [Page 14:  ](#id-section14).
+* [Page 1:   2017-9-23(#id-section1). Evolution of critical day length for diapause induction enables range expansion of Diorhabda carinulata, a biological control agent against tamarisk (Tamarix spp.)
+* [Page 2:  paper one for lab meeting on 2017-9-25
+* [Page 3:  ]Evlutione Applications,Dan et al. 2012
+* [Page 4:  ](#id-section4).Good to know: Contemporary or rapid evolution occurs on ecological timescales, within tens of generations or fewer (Hairston et al. 2005; Carroll et al. 2007), and is no longer consid- ered unusual,with numerous documented examples.
+* [Page 5:  ](#id-section5).Also my concern: The primary safety concern is that host range may evolve following the release of the agent, and the agent may have a negative impact on species not targeted for control.
+* [Page 6:  ](#id-section6).There are instances of host use patterns shifting among plants within the fundamental host range (all plants that can be used by an agent) but evolution of fun- damental host range has not been detected in weed bio- logical control agents (van Klinken and Edwards 2002), and the stability of the fundamental host range is one rea- son for the excellent safety record of weed biocontrol (Pemberton 2000). Likewise, there is little evidence that evolution has been part of adaptation to new ranges that would increase postrelease efficacy of weed biological con- trol agents.
+* [Page 7:  ](#id-section7).applying evolu- tionary principles to biological control.
+* [Page 8:  ](#id-section8).evolution of life history traits may occur,
+* [Page 9:  ](#id-section9).The size and geographic scope of the infestation and cost of management make Tamarix an appropriate target for biological control
+* [Page 10:  ](#id-section10).Hypothesis:the CDL for diapause induction was evolving under the selection pressure brought about by the phenology mismatch of D. carinulata populations with host plant availability and local climate.
+* [Page 11:  ](#id-section11).At all four sites, the shift in CDL (Table 4) will extend the reproductive activity of beetles later into the season (Table 5) and enable them to better utilize locally available host plant foliage and tempera- tures permissive for continuous development. Shifting diapause later into the season will also decrease the amount of time beetles are exposed to warm summer conditions while dormant in the leaf litter.
+* [Page 12:  ](#id-section12).evolution of CDL has enhanced the efficacy of D. carinulata as a biocontrol agent.
+* [Page 13:  ](#id-section13).Continuing the measurement of evolving CDL values will be important in predicting further shifts in phenology, which will help determine the range of the insect (
+* [Page 14:  ](#id-section14).This confused me: 
+During the first few years of the tamarisk biocontrol program, from 2001 to 2004, newly introduced beetles continued to enter diapause when day lengths receded to <14 h 39 min. As a result, populations entered diapause in mid-August at the northernmost biocontrol release site located near Lovell, WY, 44.84°N, which corresponds clo- sely to the latitude of origin for the Fukang biotype of D. carinulata. At a more southern site near Bishop, CA (37.08°N), a caged beetle population entered diapause in mid-July (Bean et al. 2007a). 
+Because northern populations always have longer CDL than southern populations, which means northern populations enter diapause earlier than southern populations. 
 * [Page 15:  ](#id-section15).
 * [Page 16:  ](#id-section16).
 * [Page 17:  ](#id-section17).
