@@ -219,9 +219,14 @@ Because northern populations always have longer CDL than southern populations, w
 
 <div id='id-section1'/>    
     
-### Page 1: 2016-07-08.  test      
+### Page 1: 2017-9-24 paper 2 for lab meeting discussion     
+Species Introductions and Their Cascading Impacts on Biotic Interactions in desert riparian ecosystems
+Kevin R. Hultine,1,* Dan W. Bean,† Tom L. Dudley‡ and Catherine A. Gehring§
+Integrative and Comparative Biology 2015
 
-
+1. climatic change has the potential to cause widespread mortality, extensive reductions in plant productivity, loss in genetic diversity, and a significant reduction in the founda- tional capacity of populations of P. fremontii that are already highly threatened throughout the desert regions in which they occur
+2. Currently no Diorhabda species has expanded its range into central and southern Arizona, southern California, or Sonora Mexico. However, D. carinu- lata may be poised to do so in the coming years. 
+3. Diapause in Diorhabda is triggered by a critical daylength (CDL) 
 
 ------
 
